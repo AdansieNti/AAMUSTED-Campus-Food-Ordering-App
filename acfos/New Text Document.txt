@@ -1,0 +1,7 @@
+admin url: localhost/acfos/admin/aindex.php
+username: admin1
+password: 123
+
+website url: localhost/acfos/index.php
+customer: agyan
+password: 123456
